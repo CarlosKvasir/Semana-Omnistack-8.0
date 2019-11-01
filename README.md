@@ -20,6 +20,13 @@ Este projeto consiste no desenvolvimento de um Tinder para desenvolvedores, cons
 ## Estrutura de Arquivos
 
 ## Instalação
-
+Entre na pasta e digite:
+```bash
+yarn install
+```
+Para rodar o backend:
+```bash
+yarn start
+```
 
 
